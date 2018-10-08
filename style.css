@@ -1,7 +1,6 @@
 
 section#slider {
     width: 920px;
-    height: 551px;
     overflow: hidden;
     position: relative;
 }
@@ -29,5 +28,6 @@ section#slider {
 
 }
 #slider img {
-    height: 581px;
+    width: 920px;
+    height: 550px;
 }

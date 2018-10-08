@@ -14,8 +14,3 @@ function prevClick() {
         elem.style.transform = "translateX("+position+"px)";
     }
 }
-
-window.addEventListener('scroll', onscroll);
-function onscroll() {
-    console.log(window.scrollY);
-}
